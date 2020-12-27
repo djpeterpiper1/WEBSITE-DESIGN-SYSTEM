@@ -1,0 +1,112 @@
+/*Headings*/
+h1 {
+  margin-left: 70px;
+  font-family: Lato;
+}
+
+h2 {
+  padding-left: 15px;
+}
+
+.textstyle h1 {
+  margin-left: 12px;      
+}
+
+/*Color Section*/
+
+.colorstyle {
+  border: 5px solid black;
+  height: 350px;
+  margin: 10px 70px 10px 70px;
+}
+
+.box {
+  height: 100px;
+  width: 300px;
+  margin-left: 10px;
+  padding: 5px 5px; 
+  text-align: center;
+  float: left;
+}
+
+.box.blackbox {
+  background: black;
+  color: white;
+}
+
+.box.bluebox {
+  background: #007cc0;
+  color: white;
+}
+
+.box.redbox {
+  background: #CE181E;
+  color: white;
+}
+
+.box.vividorange {
+  background-color: #ffc20e;
+  margin-top: 20px;
+}
+
+
+
+/*Font Section*/
+
+.fontstyle {
+  border: 5px solid black;
+  height: 500px;
+  margin: 10px 70px 10px 70px;
+}
+
+.Lato {
+  padding-left: 15px;
+  float: left;
+  font-family: Lato;
+  font-size: 20px;
+}
+
+.Raleway {
+  padding-left: 15px;
+  float: left;
+  font-family: Raleway;
+  font-size: 20px;
+}
+
+.Roboto {
+  padding-left: 15px;
+  float: left;
+  font-family: Roboto;
+  font-size: 20px;
+}
+
+.text-under {
+  text-decoration: underline;
+  font-size: 24px;
+}
+
+.text-reg {
+  font-weight: 400;
+}
+
+.text-bold {
+  font-weight: 700;
+}
+
+.text-italic {
+  font-weight: 300;
+  font-style: italic;
+}
+
+  /*Text Section*/
+
+.textstyle {
+  border: 5px solid black;
+  height: 500px;
+  margin: 10px 70px 10px 70px;
+}
+
+.textstyle p {
+  padding-left: 15px;    
+
+}
